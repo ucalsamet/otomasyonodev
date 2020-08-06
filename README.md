@@ -1,0 +1,2 @@
+# otomasyonodev
+postgresql proje ödevi
